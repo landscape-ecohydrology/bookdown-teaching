@@ -14,6 +14,8 @@ description: "Some visualizations, examples, and projects from teaching"
 
 # Introduction
 
+These modules are not designed to be full courses - the goal is to showcase interesting visualizations that can help illustrate key concepts in environmental science and engineering.
+
 This is a *sample* book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
 
 The **bookdown** package can be installed from CRAN or Github:
@@ -34,3 +36,13 @@ knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
 ```
+
+<!--# Make changes in RStudio, save then knit, copy to desktop book folder and push with hit desktop -->
+
+## Teaching Philosophy
+
+insert text here
+
+## New Content
+
+-   May 2021 - Document started - will begin importing content soon!

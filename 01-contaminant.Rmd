@@ -1,5 +1,37 @@
 # Contaminant Transport {#intro}
 
+Scientists and engineers are often tasked to assess and manage the contamination of air, water, and soil. Models of varying complexity are often used to determine the source and predict the fate of environmental contaminants to assess the threat to the environment or society.
+
+Here, we explore some mathematical models that can be used to describe different ecosystems, both analytically and numerically (through coding).
+
+## Lentic Ecosystems
+
+Lakes, ponds, reservoirs, wetlands.
+
+### General Mass Balance and Assumptions
+
+CSTR model
+
+### Mass Transport Processes
+
+### Mass Removal Processes
+
+### Residence Time
+
+### Damkohler Number
+
+## Streams and Rivers
+
+### General Mass Balance and Assumptions
+
+Plug flow model
+
+### Residence Time
+
+### Dispersion
+
+Advection-Dispersion Reaction Equation (ADRE) model
+
 You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
 
 Figures and tables with captions will be placed in `figure` and `table` environments, respectively.

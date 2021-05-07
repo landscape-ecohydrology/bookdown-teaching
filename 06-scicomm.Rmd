@@ -1,0 +1,23 @@
+# Communicating your research
+
+Science communication is a critical part of the research process. While the most common way for researchers to disseminate their research is through publishing papers in journals or presenting at scientific conferences, there can be many hurdles for someone to access and understand your research (paywalls, language barrier, jargon, etc.). Thus, communicating your research in a variety of ways is essential for reaching different audience groups.
+
+## Stakeholder Infographics
+
+Description
+
+Infographic 1 Mine
+
+Infographic 2 Joy
+
+## Up-Goer Five Challenge
+
+Description
+
+::: {align="center"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z8Z2EdZgnlQ" frameborder="0" allowfullscreen>
+
+</iframe>
+:::
+
+## Haiku Your Research
